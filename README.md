@@ -1,14 +1,14 @@
 # Lesson 1: Introduction to the Python elective
 
 <div align="right">
-<a href="https://python-elective-1-spring-2019.github.io/">index</a> | 
+<a href="https://python-elective-2-spring-2019.github.io/">index</a> | 
 <a href="../../../Lesson-02-Introduction-to-Python-and-Python-Strings/blob/master/README.md">next</a>
 </div>
 
-> Agenda 08-02-2019
+> Agenda 19-02-2019
 
 ## Topics today
-Today will be an "overview" and "installation" day. We need to be on the same level before we start. You will furthermore get an introduction to the unix filesystem and commandline and you will have exercises in controling your computer through the commandline. 
+The first part of today will be an "overview" and "installation" day. We need to be on the same level before we start. You will furthermore get an introduction to the unix filesystem and commandline and you will have exercises in controling your computer through the commandline. 
 
 ## Required reading
 * [Learning Objectives](/other_materials/learning_objectives.md)
@@ -40,7 +40,7 @@ Today will be an "overview" and "installation" day. We need to be on the same le
 ![](other_materials/src/python_semester.png)
 
 ## Teachings / Exercises
-* [Teaching Plan](https://python-elective-1-spring-2019.github.io/)  
+* [Teaching Plan](https://python-elective-2-spring-2019.github.io/)  
 ---
 * Techings 6 lektions a week for 15 weeks.  
     * Teachings - Exercises - Recap  
@@ -96,7 +96,7 @@ Today will be an "overview" and "installation" day. We need to be on the same le
 * [Real Python](https://realpython.com/)
 
 <div align="center">
-<a href="https://python-elective-1-spring-2019.github.io/">index</a> | 
+<a href="https://python-elective-2-spring-2019.github.io/">index</a> | 
 <a href="../../../Lesson-02-Introduction-to-Python-and-Python-Strings/blob/master/README.md">next</a>
 </div>
 
